@@ -1,3 +1,6 @@
+.. image:: https://assets.piptrends.com/get-last-month-downloads-badge/hdrpy.svg
+    :alt: hdrpy Downloads Last Month by pip Trends
+    :target: https://piptrends.com/package/hdrpy   
 |pypi-version| |pypi-python| |travis-build| |appveyor-build| |pypi-license-apache| 
 
 
